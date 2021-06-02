@@ -1,4 +1,4 @@
-﻿---
+---
 title: عليمات مستضافة عبر الإنترنت
 permalink: index.html
 layout: home
