@@ -1,6 +1,7 @@
 ﻿---
 lab:
-   title: 'توفير خدمات قاعدة بيانات Azure الارتباطية'
+    title: 'تتاللفة 1: وفير خدمات قاعدة بيانات Azure الارتباطية'
+    module: 'الوحدة الثانية: استكشاف البيانات الارتباطية في Azure'
 ---
 
 ## الإرشادات
@@ -8,4 +9,4 @@ lab:
 
 ستقوم، في هذا النشاط المعملي، بإنشاء وتكوين أحد الخوادم التالية لـ Azure: SQL Server أو PostgreSQL أو MySQL.
 
-1.	انتقل إلى تمرين Microsoft Learn على https://docs.microsoft.com/learn/modules/explore-provision-deploy-relational-database-offerings-azure/7-exercise-provision-relational-azure-data-services؟pivots = azuresql وأكمل الوحدة في المتصفح: 
+1.	انتقل إلى تمرين Microsoft Learn على https://aka.ms/dp900lab01-ara وأكمل الوحدة في المتصفح: 

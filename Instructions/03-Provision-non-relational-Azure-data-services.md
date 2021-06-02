@@ -1,5 +1,7 @@
-﻿Lab:
-   title: 'توفير خدمات بيانات Azure غير الارتباطية'
+﻿---
+lab:
+    title: 'تاللفة 3: وفير خدمات بيانات Azure غير الارتباطية'
+    module: 'الوحدة الثالثة: استكشاف البيانات غير الارتباطية في Azure'
 ---
 
 ## الإرشادات
@@ -12,4 +14,4 @@
 
 في هذا النشاط المعملي، ستقوم بتوفير حساب Cosmos DB وتكوينه، واختباره عن طريق إنشاء قاعدة بيانات وحاوية وعينة مستند. ستوفر أيضًا حساب Azure Storage الذي يمكنه توفير تخزين البيانات الثنائية كبيرة الحجم والملفات وData Lake.
 
-1.	انتقل إلى تمرين Microsoft Learn على https://docs.microsoft.com/learn/modules/explore-provision-deploy-non-relational-data-services-azure/7-exercise-provision-non-relational-azure وأكمل الوحدة في المتصفح: 
+1.	انتقل إلى تمرين Microsoft Learn على https://aka.ms/dp900lab03-ara وأكمل الوحدة في المتصفح: 
