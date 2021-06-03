@@ -8,8 +8,8 @@
 
 | النشاط المعملي للمتدرب - DP-900 | الموضوع | ملف Markdown |
 | --- | --- | --- |
-| 01: DP-900 الوحدة 02 | توفير خدمات قاعدة بيانات Azure الارتباطية | [01-Provision-Azure-relational-database-services.md](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/01-Provision-Azure-relational-database-services.md) |
-| 02: DP-900 الوحدة 02 | استخدم SQL للاستعلام عن تعلم قاعدة بيانات Azure SQL في التعلم الآلي من Azure | [https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/02-Use-SQL-to-query-Azure-SQL-Database.md) |
-| 03: DP-900 الوحدة 03 | توفير خدمات بيانات Azure غير الارتباطية  | [03-Provision-non-relational-Azure-data-services.md](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/03-Provision-non-relational-Azure-data-services.md) |
-| 04: DP-900 الوحدة 03 | تحميل البيانات وتنزيلها والاستعلام عنها في مخزن بيانات غير ارتباطية | [04-Upload-download-and-query-data-in-a-non-relational-data-store.md](https://github.com/MicrosoftLearning/DP-900T00A-Azure-Data-Fundamentals/blob/master/Instructions/04-Upload-download-and-query-data-in-a-non-relational-data-store.md) |
+| 01: DP-900 الوحدة 02 | توفير خدمات قاعدة بيانات Azure الارتباطية | [01-Provision-Azure-relational-database-services.md](https://github.com/MicrosoftLearning/DP-900AR-Microsoft-Azure-Data-Fundamentals/blob/master/Instructions/01-Provision-Azure-relational-database-services.md) |
+| 02: DP-900 الوحدة 02 | استخدم SQL للاستعلام عن تعلم قاعدة بيانات Azure SQL في التعلم الآلي من Azure | [02-Use-SQL-to-query-Azure-SQL-Database.md](https://github.com/MicrosoftLearning/DP-900AR-Microsoft-Azure-Data-Fundamentals/blob/master/Instructions/02-Use-SQL-to-query-Azure-SQL-Database.md) |
+| 03: DP-900 الوحدة 03 | توفير خدمات بيانات Azure غير الارتباطية  | [03-Provision-non-relational-Azure-data-services.md](https://github.com/MicrosoftLearning/DP-900AR-Microsoft-Azure-Data-Fundamentals/blob/master/Instructions/03-Provision-non-relational-Azure-data-services.md) |
+| 04: DP-900 الوحدة 03 | تحميل البيانات وتنزيلها والاستعلام عنها في مخزن بيانات غير ارتباطية | [https://github.com/MicrosoftLearning/DP-900AR-Microsoft-Azure-Data-Fundamentals/blob/master/Instructions/04-Upload-download-and-query-data-in-a-non-relational-data-store.md) |
 
