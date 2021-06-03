@@ -1,6 +1,6 @@
 ﻿# أساسيات بيانات Microsoft Azure
 
-يحتوي هذا المستودع على تمارين معملية عملية لدورة Microsoft التدريبية [DP-900 * أساسيات بيانات Microsoft Azure*](https://docs.microsoft.com/ar-sa/learn/certifications/courses/dp-900t00) و[الوحدات النمطية الذاتية في Microsoft Learn.](https://docs.microsoft.com/ar-sa/users/23110622/collections/0kjyh8rn5gdrjj/) صُممت الأنشطة المعملية لمرافقة المواد التعليمية وتمكينك من التدرب على استخدام التقنيات التي يصفونها. 
+يحتوي هذا المستودع على تمارين معملية عملية لدورة Microsoft التدريبية [DP-900 *أساسيات بيانات Microsoft Azure*](https://docs.microsoft.com/ar-sa/learn/certifications/courses/dp-900t00) و[الوحدات النمطية الذاتية في Microsoft Learn.](https://docs.microsoft.com/ar-sa/users/23110622/collections/0kjyh8rn5gdrjj/) صُممت الأنشطة المعملية لمرافقة المواد التعليمية وتمكينك من التدرب على استخدام التقنيات التي يصفونها. 
 
 - **[تنزيل أحدث دليل للطالب ومحتوى جميع الملفات](../../releases/latest)**
 - **هل أنت MCT؟** -  ألق نظرة على [دليل مستخدم GitHub الخاص بنا لـ MCTs](https://microsoftlearning.github.io/MCT-User-Guide/)
