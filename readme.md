@@ -1,4 +1,5 @@
-﻿# أساسيات بيانات Microsoft Azure
+<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0" dir="rtl">
+ <article class="markdown-body entry-content container-lg" itemprop="text"><h1><a id="user-content-أساسيات-بيانات-microsoft-azure" class="anchor" aria-hidden="true" href="#أساسيات-بيانات-microsoft-azure"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>أساسيات بيانات Microsoft Azure</h1>
 
 يحتوي هذا المستودع على تمارين معملية عملية لدورة Microsoft التدريبية [DP-900 *أساسيات بيانات Microsoft Azure*](https://docs.microsoft.com/ar-sa/learn/certifications/courses/dp-900t00) و[الوحدات النمطية الذاتية في Microsoft Learn.](https://docs.microsoft.com/ar-sa/users/23110622/collections/0kjyh8rn5gdrjj/) صُممت الأنشطة المعملية لمرافقة المواد التعليمية وتمكينك من التدرب على استخدام التقنيات التي يصفونها. 
 
@@ -35,3 +36,4 @@
 ### مواد الفصل
 
 يوصى بشدة أن يقوم MCTs والشركاء بالوصول إلى هذه المواد، وبالتالي توفيرها بشكل منفصل للطلاب.  إن توجيه الطلاب مباشرةً إلى GitHub للوصول إلى خطوات النشاط المعملي كجزء من عملهم في جلسة تدريبية سيتطلب منهم الوصول إلى واجهة مستخدم أخرى كجزء من الدورة التدريبية، مما يساهم في تقديم تجربة مربكة للطالب. إن شرح سبب تلقي الطالب تعليمات للأنشطة المعملية منفصلة يمكن أن يبرز طبيعة واجهة ونظام أساسي قائم على السحابة متغير دائمًا. يقتصر دعم Microsoft Learning للوصول إلى الملفات على GitHub ودعم التنقل في موقع GitHub على MCTs الذين يدرسون هذه الدورة التدريبية فقط.
+   </div>
